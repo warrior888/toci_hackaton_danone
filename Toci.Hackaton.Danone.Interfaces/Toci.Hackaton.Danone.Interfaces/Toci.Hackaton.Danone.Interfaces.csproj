@@ -50,6 +50,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AggregationBll.cs" />
     <Compile Include="AiDal.cs" />
     <Compile Include="DataModel.Context.cs">
       <AutoGen>True</AutoGen>
