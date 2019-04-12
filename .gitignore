@@ -1,0 +1,5 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Toci.Hackaton.Danone.Interfaces/.vs/Toci.Hackaton.Danone.Interfaces/v16/Server/sqlite3
